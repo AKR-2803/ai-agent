@@ -4,8 +4,9 @@ An interactive AI-powered chat application built with **Vite + React**, using **
 
 ## Preview
 
-[Preview-01](../ai-agent/frontend/src/assets/ss01.png)
-[Preview-02](../ai-agent/frontend/src/assets/ss02.png)
+<img src="./frontend/src/assets/ss01.png" alt="Preview-01" width="700" height="auto" />
+
+<img src="./frontend/src/assets/ss02.png" alt="Preview-02" width="700" height="auto" />
 
 ## Features [Till Now]
 
